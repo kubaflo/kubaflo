@@ -31,6 +31,10 @@ Welcome to my GitHub profile. I'm Jakub Florkowski – a passionate .NET MAUI de
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
 </p>
 
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kubaflo&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## GitHub Stats 📊
 
 
@@ -51,8 +55,3 @@ Welcome to my GitHub profile. I'm Jakub Florkowski – a passionate .NET MAUI de
   <summary>Profile Views 👁️</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=kubaflo&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-
-## GitHub Profile Trophy 🏆
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kubaflo&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
