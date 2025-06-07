@@ -1,6 +1,25 @@
-<h1 align="center">Yeah, I can fix it! 🛠️</h1>
+<div align="justify">
 
-## 🚀 Languages and Tools I Use
+<a href="https://www.instagram.com/kubaflo.dev/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@kubaflo">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jakubflorkowski/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
+</div>
+<p></p>
+<p align="justify">
+Welcome to my GitHub profile. I'm Jakub Florkowski – a passionate .NET MAUI developer and contributor to the .NET ecosystem. I’ve been coding for over a decade, and today, I focus on building cross-platform mobile applications, fixing bugs in the .NET MAUI repo, and sharing knowledge with the community through talks, posts, and streams. Follow me to keep up with my latest work in C#, DevOps, and mobile development!
+
+</p>
+
+## My favorite tools and technologies ⚙️
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/></a>
@@ -19,24 +38,28 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/></a>
 </p>
 
-## ⚡️ Where to Find Me
+## GitHub Stats 📊
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jakub-florkowski/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230a77b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/kubaflo" target="_blank"><img src="https://img.shields.io/badge/instagram-%23F35369?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@jakubflorkowski" target="_blank"><img src="https://img.shields.io/badge/youtube-%23cc0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
 
-## 📊 GitHub Stats
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kubaflo's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=kubaflo&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kubaflo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubaflo&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubaflo&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kubaflo" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=kubaflo&margin-w=5" alt="GitHub Trophies" />
-  </a>
-</p>
+
+
+  <summary>Activity Graph 📈</summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kubaflo&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
+
+
+
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=kubaflo&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+
+
+## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kubaflo&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
