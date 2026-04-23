@@ -6,11 +6,6 @@
 </p>
 
 </div>
-<p></p>
-<p align="justify">
-Welcome to my GitHub profile. I'm Jakub Florkowski – a passionate .NET MAUI developer and contributor to the .NET ecosystem. I’ve been coding for over a decade, and today, I focus on building cross-platform mobile applications, fixing bugs in the .NET MAUI repo, and sharing knowledge with the community through talks, posts, and streams. Follow me to keep up with my latest work in C#, DevOps, and mobile development!
-
-</p>
 
 ## GitHub Stats 📊
 
